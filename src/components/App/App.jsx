@@ -46,7 +46,6 @@ export function App() {
           deleteContact={deleteContact}
           filter={filter}
         />
-        <h2>van</h2>
       </ContactsContainer>
     </AppContainer>
   );
